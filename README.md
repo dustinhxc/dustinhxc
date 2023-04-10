@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dustinhxc
 - 👀 I’m interested in mechanical keyboards
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning CyberSecurity
 - 📫 dustinhxc@gmail.com
 
 <!---
