@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dustinhxc
 - 👀 I’m interested in mechanical keyboards
 - 🌱 I’m currently learning CyberSecurity
-- 📫 dustinhxc@gmail.com
+- 📫 dustin@dustingray.tech
 
 <!---
 dustinhxc/dustinhxc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
